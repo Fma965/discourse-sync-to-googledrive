@@ -5,7 +5,7 @@
 # url: https://github.com/berlindiamonds/discourse-sync-to-googledrive
 
 gem 'httpclient', '2.8.3', { require: false }
-gem 'signet', '0.7.3', { require: false }
+gem 'signet', '0.13.0', { require: false }
 gem 'os', '0.9.6', { require: false }
 gem 'memoist', '0.16.0', { require: false }
 gem 'little-plugger', '1.1.4', { require: false }
